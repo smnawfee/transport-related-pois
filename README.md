@@ -1,2 +1,4 @@
 # Transport-related-POIs
 Comparing distribution of transport-related POIs between an authoritative and user-generated source
+## Summary
+In this study, we explore the spatial distribution of user-generated transport-related POIs from OpenStreetMap (OSM) against an authoritative dataset for the Greater London area. While the OSM transport POIs and their sub-categories (Bus stops and Parking) exhibit higher frequency, they tend to concentrate at fewer locations (central part of the area overall but not for the sub-categories). This indicates that the spatial distribution of user-generated POIs varies between categories, highlighting systematic differences between user-generated and authoritative datasets This is a pilot of a larger distributional study on a range of POIs to understand their fitness-of-purpose in different scenarios.
